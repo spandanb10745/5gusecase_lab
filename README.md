@@ -54,7 +54,7 @@ By streaming live patient video into the Arduino Uno Q’s **Qualcomm Dragonwing
 ## 4. Repository Structure & Contents
 
 ```text
-5gusecase_lab/
+Critical-Apnea-Detection/
 ├── 5glab_poster1.pdf                       # Printable A1-Sized IEEE Project Poster
 ├── README.md                               # Complete Project Documentation & Setup Guide
 ├── Arduino_uno_q_setup/                    # Complete Arduino Uno Q Dual-Processor Package
